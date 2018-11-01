@@ -10,7 +10,7 @@ client.on("guildMemberAdd", member => {
 سلام عليكم 
 الحياة تكسرنا وتبعدنا عن الصحبة. لاكن الصحبه موجوده عندنآ:rose:  حياك الله :dancer: 
 اطلب من سموك الرقي تنورنا :butterfly: يلحلو:heart: 
-                          [https://discord.gg/YZ6tS9d]
+                          https://discord.gg/YZ6tS9d
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
